@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\22559012\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B6956-806B-268D-F5A3-E1402921E390}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\22559012\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7B6956-806B-268D-F5A3-E1402921E390}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharactorMove.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\22559012\\Assets\\Script\\CharactorMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactorMove.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\22559012\\Assets\\Script\\CharactorMove.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactorMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:26:12.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
