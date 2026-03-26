@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EA813E69-81F9-CE4F-C795-9A6E9513FD4E}</ProjectGuid>
+    <ProjectGuid>{3F7B6956-806B-268D-F5A3-E1402921E390}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,6 +59,7 @@
     <Compile Include="Assets\Script\Monster.cs" />
     <Compile Include="Assets\Script\MonsterManager.cs" />
     <Compile Include="Assets\Script\Bullet.cs" />
+    <Compile Include="Assets\Script\CutLineWall.cs" />
     <Compile Include="Assets\Script\CharactorMove.cs" />
     <Compile Include="Assets\Script\BulletFire.cs" />
   </ItemGroup>

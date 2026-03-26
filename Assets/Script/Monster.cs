@@ -5,10 +5,20 @@ using UnityEngine;
 public class Monster : MonoBehaviour
 {
     public float spd = 5.0f;
+    public GameObject target;
     Vector3 direct = Vector3.down;
+
     // Start is called before the first frame update
     void Start()
     {
+        int rndNum = Random.Range(0, 10);
+        //if (rndNum <3)
+        if (rndNum % 3 == 0)
+        {
+            //GameObject target = GameObject.Find("Character");
+            direct = target.transform.position - transform.position;
+            direct.Normalize();
+        }
         
     }
 
