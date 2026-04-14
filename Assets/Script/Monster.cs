@@ -5,12 +5,16 @@ using UnityEngine;
 public class Monster : MonoBehaviour
 {
     public float spd = 5.0f;
-    public GameObject target;
+    GameObject target;
     Vector3 direct = Vector3.down;
+
+    public GameObject prefabsExplosion;
 
     // Start is called before the first frame update
     void Start()
     {
+        target = GameObject.Find("Charactor");
+
         int rndNum = Random.Range(0, 10);
         //if (rndNum <3)
         if (rndNum % 3 == 0)
@@ -30,8 +34,12 @@ public class Monster : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        Destroy(collision.gameObject);
+        GameObject explosionObj = Instantiate(prefabsExplosion);
+        explosionObj.transform.position = transform.position;
 
+
+
+        Destroy(collision.gameObject);
         Destroy(gameObject);
     }
 }

@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08501255-0D0D-E457-28E5-D424FC5683D0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Background.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\Background.cs",
+              "RelativeToolTip": "Assets\\Script\\Background.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:29:29.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BulletFire.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\BulletFire.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BulletFire.cs",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CharactorMove.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\CharactorMove.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CharactorMove.cs",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "Assets\\Script\\CharactorMove.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T03:11:02.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T03:11:02.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CutLineWall.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\CutLineWall.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CutLineWall.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MonsterManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\MonsterManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MonsterManager.cs",
@@ -99,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\Monster.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Monster.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\22559012_\uAE40\uC724\uC7AC\\now\\Assets\\Script\\Monster.cs",
               "RelativeToolTip": "Assets\\Script\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAABYwCkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T01:13:45.062Z"
             }
