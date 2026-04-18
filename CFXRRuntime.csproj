@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{975C1D7A-0B55-21A7-703E-E8E978A0697E}</ProjectGuid>
+    <ProjectGuid>{3EC96AC8-A2E6-3A6B-0D92-C8A8774EDAC8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>CFXRRuntime</AssemblyName>
